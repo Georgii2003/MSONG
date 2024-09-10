@@ -1,0 +1,1 @@
+/usr/bin/cc CMakeFiles/server.dir/tests/server.c.o -o server  -Wl,-rpath,/usr/local/lib /usr/local/lib/libzmq.so
