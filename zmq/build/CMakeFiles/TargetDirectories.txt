@@ -1,4 +1,0 @@
-/home/user/zmq/build/CMakeFiles/server.dir
-/home/user/zmq/build/CMakeFiles/client.dir
-/home/user/zmq/build/CMakeFiles/edit_cache.dir
-/home/user/zmq/build/CMakeFiles/rebuild_cache.dir

@@ -1,1 +1,0 @@
-/usr/bin/cc CMakeFiles/client.dir/tests/client.c.o -o client  -Wl,-rpath,/usr/local/lib /usr/local/lib/libzmq.so
